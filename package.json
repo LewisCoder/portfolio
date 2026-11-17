@@ -1,0 +1,14 @@
+{
+  "name": "avery-lin-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "极简个人作品集：HTML5 + Tailwind CSS，Bento 栅格，暗色画廊风。",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --minify",
+    "watch": "tailwindcss -i ./src/input.css -o ./assets/css/tailwind.css --watch",
+    "serve": "python -m http.server 4173"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
