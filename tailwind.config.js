@@ -6,14 +6,14 @@ module.exports = {
       colors: {
         /* Gallery-dark theme: "ink" is now the light text color,
            "paper" the deep page ground — classes flip automatically. */
-        ink: '#F4EFE6',
-        paper: '#100E0B',
-        haze: '#191512',
-        mist: '#F4EFE6',
-        void: '#0B0907',
-        klein: '#6D84FF',
-        'klein-bright': '#A9B6FF',
-        'klein-deep': '#4152B8'
+        ink: '#F3F1EB',
+        paper: '#0A0A09',
+        haze: '#141413',
+        mist: '#F3F1EB',
+        void: '#070706',
+        klein: '#3D5BFF',
+        'klein-bright': '#7B8CFF',
+        'klein-deep': '#0C1E9A'
       },
       fontFamily: {
         sans: [
